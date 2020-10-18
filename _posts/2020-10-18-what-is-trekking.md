@@ -11,8 +11,14 @@ tags:   [trekking, SanSoNyeo]
 등반과 하이킹의 중간형태로 무거운 짐을 짊어지고 장거리 야영여행을 하는 백패킹(back packing)과 구별된다. 
 하루 도보거리는 15~20 km이며, 산의 높이를 기준으로 5,000 m 이상은 등반, 그 이하는 트레킹으로 구분하기도 한다.
 
+<pre>
+<code>
 public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("트레킹이란?, 산소녀");
-  }
+        public static void main(String[] args) {
+        System.out.println("트레킹이란?, 산소녀");
+        }
+    }
 }
+</code>
+</pre>
+
