@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/mtngirl/2020/10/18/welcome-to-sansonyeo/</loc>
+<lastmod>2020-10-18T02:32:32+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mtngirl/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mtngirl/book/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mtngirl/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mtngirl/tag/welcome/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mtngirl/tag/sansonyeo/</loc>
+</url>
+</urlset>
