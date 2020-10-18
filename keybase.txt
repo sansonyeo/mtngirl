@@ -1,3 +1,15 @@
+==================================================================
+https://keybase.io/mtngirl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mtngirl.kr
+  * I am mtngirl (https://keybase.io/mtngirl) on keybase.
+  * I have a public key ASCNGOE_sE3ArLasPbRKF_fnicNngmVUxFO2ZEH5zfKrCgo
+
+To do so, I am signing this object:
+
 {
   "body": {
     "key": {
@@ -8,13 +20,13 @@
       "username": "mtngirl"
     },
     "merkle_root": {
-      "ctime": 1603015845,
-      "hash": "02ecf356d852b155f0f7ff62a8f40ecf6fefbd1fa85ae73c926f3fa4998b8cecc8b03c787681cc68e298802888f6ec69ea3640f6f6c54769fceb24788b576830",
-      "hash_meta": "eb898e273696412041912b1f7f9f4f9d3fd3d420b376e285896c026a8556e8bc",
-      "seqno": 17859425
+      "ctime": 1603016188,
+      "hash": "6b19617d07bf432d83db11f31d9405d3d7c0033321b3fb9becc85e65a3f3820d20165d405ada0a4289fa47cfd3bcfab5d0443d1edc7b0984bf97ee9958885f1a",
+      "hash_meta": "ac1696d8d34027ba6b3c5af8b3a2a5023782d42d959c35f0673523b254c7c711",
+      "seqno": 17859442
     },
     "service": {
-      "entropy": "VmK2ji2r41kVVHX4wJb8Xfnt",
+      "entropy": "2Xl5qsamo2inSm9Iyl6WQvsl",
       "hostname": "mtngirl.kr",
       "protocol": "https:"
     },
@@ -25,9 +37,20 @@
     "name": "keybase.io go client",
     "version": "5.5.0"
   },
-  "ctime": 1603015891,
+  "ctime": 1603016237,
   "expire_in": 504576000,
-  "prev": "3c4177cfe862dca5a8009616ba59a2a53008d009acfc804093fe315006eb784e",
-  "seqno": 44,
+  "prev": "e02e94843fe6e88dfc716e92c39dd8570000113d108d566abe31cb8d6c1f7101",
+  "seqno": 46,
   "tag": "signature"
 }
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjRjhP7BNwKy2rD20Shf354nDZ4JlVMRTtmRB+c3yqwoKp3BheWxvYWTESpcCLsQg4C6UhD/m6I38cW6Sw53YVwAAET0QjVZqvjHLjWwfcQHEIAtObKnrCEw6aZKwnonDCtQgkzWiKKU4vVK4xnftFg4OAgHCo3NpZ8RAOxrx1csdleJ+alqWHN3+FsX2jkwoeG3x07cJ0h5IfM8Ad3LUjPwbo9efdSBUwpKZzyQoeqxLQ/tB6YSniiyfBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDKBUYh6UGRdPJHMAVvyWPee+AuVbzV8lrIq4UdVgPcOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mtngirl
+
+==================================================================
