@@ -3,7 +3,7 @@ layout: post
 title:  "트레킹이란?"
 date:   2020-10-18 오후 6:21:18
 #image:  '/assets/img/01.jpg'
-tags:   [trekking, SanSoNyeo]
+tags:   [trekking, sansonyeo]
 ---
 
 남아프리카 원주민들이 달구지를 타고 정처없이 집단 이주한 데서 유래하였다.
