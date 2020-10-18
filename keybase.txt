@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mtngirl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mtngirl.kr
+  * I am mtngirl (https://keybase.io/mtngirl) on keybase.
+  * I have a public key ASCNGOE_sE3ArLasPbRKF_fnicNngmVUxFO2ZEH5zfKrCgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208d18e13fb04dc0acb6ac3db44a17f7e789c367826554c453b66441f9cdf2ab0a0a",
+      "host": "keybase.io",
+      "kid": "01208d18e13fb04dc0acb6ac3db44a17f7e789c367826554c453b66441f9cdf2ab0a0a",
+      "uid": "f9e9b2935baeb9003d6aefc8a4f64919",
+      "username": "mtngirl"
+    },
+    "merkle_root": {
+      "ctime": 1603015421,
+      "hash": "70064513ddccc5fead83904bb28b984e2e7219f378028240e844061e1dabe8a6c0d61bf433c5c151142a7718d90402f2744fe0ea287234209af73243dbea10d9",
+      "hash_meta": "25d09b7e365f07077defc71da0adaf217cacc60663efe580d98a6612c3999a6a",
+      "seqno": 17859393
+    },
+    "service": {
+      "entropy": "hL2/IHMEL0dNuzHZDF5K98CJ",
+      "hostname": "mtngirl.kr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1603015459,
+  "expire_in": 504576000,
+  "prev": "d45a3afb20d3e12cfc9a65c28884cd55e4128b6263f3502a927a63fda5fadb5c",
+  "seqno": 42,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjRjhP7BNwKy2rD20Shf354nDZ4JlVMRTtmRB+c3yqwoKp3BheWxvYWTESpcCKsQg1Fo6+yDT4Sz8mmXCiITNVeQSi2Jj81Aqknpj/aX621zEIAcX5jns+Ex01p7/5w9/HoTi+mzCcUABBHpbgXkZ3m1IAgHCo3NpZ8RAG1619WMGTSs9NUqzazGxGrlmIc90CYuIBpG2MGhDEhTy3ZCz9s8DPtoLZTUUOTpa6jiE/PvOn0/w4GJNdIWtBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPZNTpc35OrSPzk5IG14gpQrDenZ5oPDXJDmf8Iu4eUAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mtngirl
+
+==================================================================
