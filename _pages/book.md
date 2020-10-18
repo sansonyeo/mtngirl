@@ -3,6 +3,7 @@ layout: page
 title: Book
 permalink: /book/
 image: '/assets/img/book/01.jpg'
+tags:   [산악도서, 황금피켈, 김헌상]
 ---
 
 ### [기조발제] 김헌상의 황금피켈
