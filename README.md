@@ -42,7 +42,7 @@ Table of Contents
 
 Check the theme in action [Demo](https://SanSoNyeo-jekyll.netlify.com)
 
-![Main page preview](https://github.com/artemsheludko/mtngirl/blob/master/assets/img/SanSoNyeo-preview.jpg?raw=true)
+![Main page preview](https://mtngirl.kr/assets/img/SanSoNyeo-preview.jpg)
 
 * * *
 
