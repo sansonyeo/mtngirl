@@ -12,8 +12,7 @@
 .author__img {
   display: block;
   max-width: 130px;
-  /* max-height: 130px; */
-  max-height: 200px;
+  max-height: 500px;
   margin: 0 auto 30px;
   border-radius: 50%;
   background-color: $gray-white;
@@ -62,12 +61,26 @@ a.say-hello {
 }
 
 a.know-more {
-  margin-left: 25px;
-  font-size: 13px;
-  font-weight: 700;
-  color: $gray;
-  text-decoration: underline;
-  &:hover {
-    color: $primary-color;
-  }
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 13px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 40px;
+    color: #fff;
+    background-color: $primary-color;
+    transition: all 150ms ease-in-out;
+    &:hover {
+        transform: translate(0px, -5px);
+        box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3);
+    }
+    // [2020.10.19 JYYun] 수정전 원본
+      /*  margin-left: 25px;
+      font-size: 13px;
+      font-weight: 700;
+      color: $gray;
+      text-decoration: underline;
+      &:hover {
+      color: $primary-color;
+      }*/
 }
