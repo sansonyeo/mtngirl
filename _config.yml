@@ -2,7 +2,7 @@ title: SanSoNyeo's Blog – Korea Mountain Girl
 logo:  # you can add own logo.
 description: SanSoNyeo's Blog
 baseurl: "" #"/mtngirl" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mtngirl.kr" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
