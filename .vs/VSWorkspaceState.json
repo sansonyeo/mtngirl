@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\img",
     "\\mtngirl",
-    "\\tag",
-    "\\tag\\sansonyeo",
-    "\\tag\\trekking",
-    "\\tag\\wpf",
-    "\\_posts"
+    "\\mtngirl\\assets",
+    "\\mtngirl\\assets\\css",
+    "\\_pages",
+    "\\_posts",
+    "\\_sass\\3-modules",
+    "\\_site\\2020"
   ],
-  "SelectedNode": "\\_posts\\2020-10-18-z-wonheungmed.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
