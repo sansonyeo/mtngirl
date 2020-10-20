@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C# WPF"
-date:   2020-10-18 오후 8:22:54
+date:   2020-10-18 20:22:54 +0900
 #image:  '/assets/img/01.jpg'
 tags:   wpf
 ---
