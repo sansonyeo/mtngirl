@@ -1,7 +1,7 @@
 ﻿title: SanSoNyeo's Blog
 logo:  # you can add own logo.
 description: SanSoNyeo's Blog
-baseurl: "/mtngirl" #"/sansonyeo" # the subpath of your site, e.g. /blog
+baseurl: "" #"/sansonyeo" # the subpath of your site, e.g. /blog
 url: "https://mtngirl.kr" # the base hostname & protocol for your site, e.g. http://example.com
 
 
