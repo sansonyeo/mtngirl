@@ -1,0 +1,66 @@
+﻿title: SanSoNyeo's Blog
+logo:  # you can add own logo.
+description: SanSoNyeo's Blog
+baseurl: "/mtngirl" #"/mtngirl" #"/sansonyeo" # the subpath of your site, e.g. /blog
+url: "https://mtngirl.kr" #"https://mtngirl.kr" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Author Settings
+author:
+  name: SanSoNyeo's Blog
+  image: '/assets/img/01.jpg'
+  job: Korea Mountain Girl
+  bio: Korea Mountain Girl and Application Software Developer especially likes Mt.Seorak Mt.Bukhan and Mt.Jiri!
+  email: whitedovey@gmail.com
+
+
+# Contact links
+contact:
+  - name: Twitter
+    link: https://twitter.com/whitedove95
+  - name: Facebook
+    link: https://facebook.com/whitedovey
+  - name: Instagram
+    link: https://instagram.com/mtngirl_yun/
+
+
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+# Google Analytics
+google-analytics: # add your identifier. For example UA-99631805-1.
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll/tagging
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag-page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
