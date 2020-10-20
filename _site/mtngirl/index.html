@@ -1,145 +1,17 @@
-<!DOCTYPE html>
-<html lang="ko">
+﻿---
+layout: default
+---
 
-<head>
-  <meta charset="utf-8">
-
-  <!-- mobile responsive meta -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>SanSoNyeo's Blog – Korea Mountain Girl</title>
-  <meta name='description' content='SanSoNyeo's Blog'>
-
-  <link rel="canonical" href="http://localhost:4000/mtngirl/">
-  <link rel="alternate" type="application/rss+xml" title="SanSoNyeo&#39;s Blog – Korea Mountain Girl" href="/feed.xml">
-
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap" rel="stylesheet">
-
-  <!-- Main Stylesheet -->
-  <link href="/assets/css/main.css" rel="stylesheet">
-
-</head>
-
-
-<body>
-
-  
-
-  <div class="container-full">
-  <!-- begin header -->
-  <header class="header">
-
-    <div class="logo">
-      <a class="logo__link" href="/">
-      
-        SanSoNyeo's Blog
-      
-      </a>
-    </div>
-
-    <nav class="main-nav">
-      <span class="main-nav__open">menu</span>
-
-      <div class="main-nav__box">
-        <span class="main-nav__close">Close</span>
-
-        <ul class="nav__list list-reset">
-          <li class="nav__item">
-            <a href="/" class="nav__link">Home</a>
-          </li>
-          
-            
-          
-            
-          
-          <li class="nav__item">
-            <a href="/about/" class="nav__link">About</a>
-          </li>
-          
-            
-          
-            
-          
-          <li class="nav__item">
-            <a href="/book/" class="nav__link">Book</a>
-          </li>
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-          <li class="nav__item">
-            <a href="/webservice/" class="nav__link">WebService</a>
-          </li>
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-        </ul>
-
-      </div>
-
-    </nav>
-
-  </header>
-  <!-- end header -->
-</div>
-
-
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
-    <div class="container">
+<div class="container">
   <!-- begin author -->
   <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
     <div class="author__inner">
-  <img src="/assets/img/01.jpg" alt="SanSoNyeo's Blog" class="author__img">
-      <h1 class="author__job">Korea Mountain Girl</h1>
-      <p class="author__bio">Korea Mountain Girl and Application Software Developer especially likes Mt.Seorak Mt.Bukhan and Mt.Jiri!</p>
+  <img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.baseurl}}{{site.author.name}}" class="author__img">
+      <h1 class="author__job">{{ site.author.job }}</h1>
+      <p class="author__bio">{{ site.author.bio }}</p>
       <div class="author__more">
-        <a href="mailto:whitedovey@gmail.com?subject=Hello%20%F0%9F%91%8B" class="say-hello">Send Email</a>
-        <a href="/about/" class="know-more">About</a>
+        <a href="mailto:{{site.author.email}}?subject=Hello%20%F0%9F%91%8B" class="say-hello">Send Email</a>
+        <a href="{{site.baseurl}}/about/" class="know-more">About</a>
       </div>
     </div>
   </section>
@@ -147,222 +19,25 @@
 </div>
 
 <div class="container">
-  
-    
+  {% if site.posts.size > 0 %}
+    {% for post in site.posts %}
     <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/20/road/">야리</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-20T12:04:29+09:00">October 20, 2020</time></span>
-        </div>
-        <p class="article__excerpt">2008년 8월 일본 북알프스 야리를 가다
-벌써 12년이 훌쩍 지난;;
-
-</p>
-        <a href="/2020/10/20/road/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/20/hongdo/">홍도</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-20T00:35:47+09:00">October 20, 2020</time></span>
-        </div>
-        <p class="article__excerpt">2017년 2월 홍도를 가다.
-시간이 허락되어 홍도를 찾았다.
-그것도 사람들 바글거리지 않는 설 지난 겨울 비수기 평일에 찾았다.
-서울에서 목포까지는 KTX로 2시간40분, 목포항에서 홍도까지 쾌속선을 타고 가는 시간은 불과 2...</p>
-        <a href="/2020/10/20/hongdo/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/19/04alpinist/">영화 알피니스트</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-19T20:35:18+09:00">October 19, 2020</time></span>
-        </div>
-        <p class="article__excerpt">영화 알피니스트 어느 카메라맨의 고백..
-10월 15일 개봉을 했네요.
-조용히 새벽에 보려 가고 싶지만..
-새벽에 개봉하는 영화관이 없겠죠?!😔
-미영언니, 형일형, 창호형…
-별이 되신 나의 영웅들~ 부디 함께 해주시길~
-
-
-
-
-...</p>
-        <a href="/2020/10/19/04alpinist/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/19/01samsil-ski/">잠실실내스키장</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-19T20:03:04+09:00">October 19, 2020</time></span>
-        </div>
-        <p class="article__excerpt">잠실실내스키장~ 연습만이 살 길이다~ ㅋㅋㅋ
-
-
-</p>
-        <a href="/2020/10/19/01samsil-ski/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/19/free-solo/">프리솔로</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-19T18:00:42+09:00">October 19, 2020</time></span>
-        </div>
-        <p class="article__excerpt">어제 신성훈형이 궁형길 프리솔로 등반에 성공…
-지금은 축하할 타임이지만, 
-등반은 위험을 감수하면서 하는건 아닌거 같다. 
-
-
-
-
-
-멋진 후배 신성훈 
-궁형길 프리쏠로 완등~
-왕축하해~~~
-방금 전화받았네요
-옆에 있었음 말렸을텐...</p>
-        <a href="/2020/10/19/free-solo/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/19/03pislab/">김현민 데몬 피스랩 스킹</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-19T18:00:42+09:00">October 19, 2020</time></span>
-        </div>
-        <p class="article__excerpt">올해도 피스랩 스킹은 못해보고 넘어가네요.
-우리나라도 피스랩 스키장이 있다는게 그저 자랑스러운;; 
-베어스타운 김현민 데몬의 피스랩 스킹을 보니 20/21 시즌스키가 강하게 끌리네요. ㅋㅋ 
-
-
-</p>
-        <a href="/2020/10/19/03pislab/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/18/csharp-wpf/">C# WPF</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-18T20:22:54+09:00">October 18, 2020</time></span>
-        </div>
-        <p class="article__excerpt">앞으로 WPF가 어떻게 더 진화 할진 모르겠지만 막강한 플랫폼이 되길 바란다.
-
-GitHub .NET WPF 문서
-
-GitHub .NET WPF 소스
-</p>
-        <a href="/2020/10/18/csharp-wpf/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="/2020/10/18/what-is-trekking/">트레킹이란?</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-18T18:21:18+09:00">October 18, 2020</time></span>
-        </div>
-        <p class="article__excerpt">남아프리카 원주민들이 달구지를 타고 정처없이 집단 이주한 데서 유래하였다.
-전문 산악인들이 개발한 네팔의 히말라야 등 험한 산악길이 일반에게 공개되면서 트레킹이라는 용어로 정착했다. 
-등반과 하이킹의 중간형태로 무거운 짐을 짊어...</p>
-        <a href="/2020/10/18/what-is-trekking/" class="read-more">Read the rest</a>
-      </div>
-    </div>
-    
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      
+      {% if post.image %}
       <div class="article__image-box">
-        <a href="/2020/10/18/welcome-to-sansonyeo/" class="article__image" style="background-image: url(/assets/img/01.jpg)"></a>
+        <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
       </div>
-      
+      {% endif %}
       <div class="article__content">
         <h2 class="article__title">
-          <a href="/2020/10/18/welcome-to-sansonyeo/">Welcome to SanSoNyeo's Blog!</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
         </h2>
         <div class="article__meta">
-          <span class="article__date">Published <time datetime="2020-10-18T14:32:32+09:00">October 18, 2020</time></span>
+          <span class="article__date">Published <time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
         </div>
-        <p class="article__excerpt">Welcome to SanSoNyeo’s Blog!
-</p>
-        <a href="/2020/10/18/welcome-to-sansonyeo/" class="read-more">Read the rest</a>
+        <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 130 }}{% endif %}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read the rest</a>
       </div>
     </div>
-    
-  
+    {% endfor %}
+  {% endif %}
 </div>
-
-  </main>
-  <!-- end content -->
-
-  <div class="container">
-  <!-- begin footer -->
-  <footer class="footer">
-    <div class="footer__inner">
-      <div class="contact">
-        <div class="contact__title">Korea Mountain inquiry, question or something else? <a href="mailto:whitedovey@gmail.com">Email me</a>.</div>
-        <ul class="contact__list list-reset">
-          
-          <li class="contact__item">
-            <a class="contact__link" href="https://twitter.com/whitedove95">Twitter</a>
-          </li>
-          
-          <li class="contact__item">
-            <a class="contact__link" href="https://facebook.com/whitedovey">Facebook</a>
-          </li>
-          
-          <li class="contact__item">
-            <a class="contact__link" href="https://instagram.com/mtngirl_yun/">Instagram</a>
-          </li>
-          
-        </ul>
-      </div>
-    </div>
-  </footer>
-  <!-- end footer -->
-</div>
-
-
-  <!-- begin js -->
-  <script src="/assets/js/vendors/jquery-3.3.1.min.js"></script>
-  <script src="/assets/js/vendors/aos.js"></script>
-  <script src="/assets/js/vendors/jquery.fitvids.js"></script>
-  <script src="/assets/js/common.js"></script>
-  <!-- end js -->
-</body>
-
-</html>
