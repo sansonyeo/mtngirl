@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\img",
-    "\\mtngirl",
+    "\\.github",
+    "\\assets\\img\\road",
     "\\mtngirl\\assets",
-    "\\mtngirl\\assets\\css",
-    "\\_pages",
-    "\\_posts",
-    "\\_sass\\3-modules",
-    "\\_site\\2020"
+    "\\mtngirl\\assets\\img",
+    "\\mtngirl\\assets\\img\\road",
+    "\\_site\\about",
+    "\\_site\\assets",
+    "\\_site\\assets\\img",
+    "\\_site\\mtngirl\\assets\\img"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }
