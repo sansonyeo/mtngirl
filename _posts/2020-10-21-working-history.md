@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "워킹 히스토리"
 date:   2020-10-21 16:32:11 +0900
 image: '/assets/img/road/03.jpg'
