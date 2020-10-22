@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\assets\\img\\road",
-    "\\mtngirl\\assets",
-    "\\mtngirl\\assets\\img",
-    "\\mtngirl\\assets\\img\\road",
-    "\\_site\\about",
-    "\\_site\\assets",
-    "\\_site\\assets\\img",
-    "\\_site\\mtngirl\\assets\\img"
+    "\\assets\\img",
+    "\\assets\\img\\book",
+    "\\_sass",
+    "\\_sass\\0-settings",
+    "\\_sass\\1-tools",
+    "\\_sass\\2-base",
+    "\\_sass\\3-modules",
+    "\\_sass\\4-layouts",
+    "\\_site\\assets"
   ],
-  "SelectedNode": "\\.github",
+  "SelectedNode": "\\_sass\\4-layouts\\_post.scss",
   "PreviewInSolutionExplorer": false
 }
