@@ -82,7 +82,7 @@ permalink: /book/
 
 ---  
 **김헌상의 황금피켈 (기조발제)**  
-![황금피켈](https://mtngirl.kr/assets/img/book/01.jpg)  
+![황금피켈](https://sansonyeo.github.io/mtngirl/assets/img/book/01.jpg)  
 
 저자는 본 책을 통해 '산과 삶과 죽음'이라는 화두를 소설로 환생 시켰다고 했다.
 

@@ -4,7 +4,7 @@ https://keybase.io/mtngirl
 
 I hereby claim:
 
-  * I am an admin of https://mtngirl.kr
+  * I am an admin of https://sansonyeo.github.io/mtngirl
   * I am mtngirl (https://keybase.io/mtngirl) on keybase.
   * I have a public key ASCa8cDYaMInWtVCEct4ee_ngwf044KcmvEegtB5PulnuAo
 
@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "entropy": "YkaVEIgcaFFfquRAwnt8SKkq",
-      "hostname": "mtngirl.kr",
+      "hostname": "sansonyeo.github.io/mtngirl",
       "protocol": "https:"
     },
     "type": "web_service_binding",
