@@ -2,7 +2,7 @@
 layout: post
 title:  "트레킹이란?"
 date:   2020-10-18 18:21:18 +0900
-#image:  '/assets/img/01.jpg'
+#image:  '/mtngirl/assets/img/01.jpg'
 tags:   [trekking, sansonyeo]
 ---
 

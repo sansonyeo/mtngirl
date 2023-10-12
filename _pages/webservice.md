@@ -2,7 +2,7 @@
 layout: page
 title: WebService
 permalink: /webservice/
-#image: '/assets/img/webservice/01.jpg'
+#image: '/mtngirl/assets/img/webservice/01.jpg'
 ---
 
 서버, 클라이언트 소스<br>

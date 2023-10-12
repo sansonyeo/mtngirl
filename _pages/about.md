@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/assets/img/01.jpg'
+image: '/mtngirl/assets/img/01.jpg'
 ---
 
 Korea Mountain Girl and Application Software Developer especially likes Mt.Seorak Mt.Bukhan and Mt.Jiri!
