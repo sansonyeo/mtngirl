@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick DBD 간단 사용 review"
-date:   2023-10-06 22:20:53 +0900
+date:   2023-11-09 09:54:53 +0900
 ---
 
 <h3 id="quickdbd에-대해">QuickDBD에 대해</h3>
