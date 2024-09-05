@@ -9,10 +9,6 @@ permalink: /webservice/
 [Source](https://github.com/sansonyeo/MTNWebService)
 
 ---
-닷넷 웹서비스 구축 (로컬 테스트)<br>
-[웹서비스로컬](http://192.168.219.160:86/WebService1.asmx?op=SelectCertificates "웹서비스로컬")
-
----
-닷넷 웹서비스 구축 (외부 테스트)<br>
-[웹서비스외부](http://112.151.93.8:86/WebService1.asmx?op=SelectCertificates "웹서비스외부")
-
+클라이언트 ASP.NET WebForm<br>
+[웹서비스 SOAP]([http://218.145.89.191/MTNWeb/WebService1.asmx?op=SelectCertificates](http://218.145.89.191:86/WebService1.asmx?op=SelectTable) "웹서비스 SOAP")<br>
+[웹서비스 페이지]([http://218.145.89.191/MTNWeb/CallTable) "웹서비스 페이지")
