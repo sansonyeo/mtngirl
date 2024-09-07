@@ -12,4 +12,5 @@ tags:
 <br><br>
 ---
 
+
 ![인물구조도](/assets/img/fictionbaekdudaegan.jpg)
