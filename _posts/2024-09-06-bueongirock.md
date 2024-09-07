@@ -8,3 +8,4 @@ tags:
 
 부엉이 바위 루트맵 <br>
 <br>
+![부엉이바위루트맵](/assets/img/bueongirock.jpg)
