@@ -2,7 +2,7 @@
 layout: post
 title:  "고독의 길"
 date:   2017-04-16 13:58:01 +0900
-image:  '/mtngirl/assets/img/01.jpg'
+image:  '/mtngirl/assets/img/02.jpg'
 tags:   
 ---
 
