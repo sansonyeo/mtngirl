@@ -9,6 +9,5 @@ tags:
 ---
 도봉산 부엉이 바위 루트맵 (Aid Climbing 용)
 ---
-
-
+<br>
 ![부엉이바위루트맵](/mtngirl/assets/img/bueongirock.jpg)
