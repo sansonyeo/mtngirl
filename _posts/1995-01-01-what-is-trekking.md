@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "트레킹이란?"
-date:   2020-10-18 18:21:18 +0900
+date:   1995-01-01 00:00:01 +0900
 #image:  '/mtngirl/assets/img/01.jpg'
 tags:   [trekking, sansonyeo]
 ---
@@ -11,4 +11,4 @@ tags:   [trekking, sansonyeo]
 등반과 하이킹의 중간형태로 무거운 짐을 짊어지고 장거리 야영여행을 하는 백패킹(back packing)과 구별된다. 
 하루 도보거리는 15~20 km이며, 산의 높이를 기준으로 5,000 m 이상은 등반, 그 이하는 트레킹으로 구분하기도 한다.
 
-
+-
