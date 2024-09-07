@@ -2,11 +2,10 @@
 layout: post
 title:  "고독의 길"
 date:   2017-04-16 13:58:01 +0900
-image:  '/mtngirl/assets/img/a-path-of-solitude.jpg'
+image:  '/mtngirl/assets/img/02.jpg'
 ---
 
-2015년 2월에 정리한 원점회귀 산행  
-혼자서 조용히 워킹하기에 적합한 산행지로 정리하다가 산악회에 오픈한 글이지 싶다..  
+산악회 자료 정리 글...
   
 ---  
 
