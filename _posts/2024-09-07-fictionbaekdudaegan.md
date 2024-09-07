@@ -12,4 +12,6 @@ tags:
 <br>
 ---
 
-![인물구조도](https://sansonyeo.github.io/mtngirl/assets/img/fictionbaekdudaegan.jpg)
+![인물구조도](/assets/img/fictionbaekdudaegan.jpg)
+
+![홍도02](/mtngirl/assets/img/hongdo/02.jpg)
